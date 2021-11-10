@@ -1,6 +1,11 @@
 import requests
 import sys
-url = "http://"
+import os
+
+os.system("figlet BRUTEFORCE")
+print ("----------Ghosttool----------")
+
+url = input  ("URL   : ")
 expression = "incorrect"
 def brute(username,password):
 	data = {'username':username,'password':password}
