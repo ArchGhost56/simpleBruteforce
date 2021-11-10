@@ -2,7 +2,7 @@ import requests
 import sys
 import os
 import time
-
+os.system("clear")
 os.system("figlet BRUTEFORCE")
 print ("----------Ghosttool----------")
 time.sleep(2)
