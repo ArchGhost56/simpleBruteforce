@@ -11,7 +11,7 @@ time.sleep(2)
 
 
 def url (u):
-url(u= input("Enter Url: "))
+url (u= input("Enter Url: "))
 expression = "incorrect"
 def brute(username,password):
 	data = {'username':username,'password':password}
