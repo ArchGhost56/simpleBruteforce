@@ -10,7 +10,7 @@ print ("starting..")
 time.sleep(2)
 
 
-def url(u)
+def url(u):
 url(u= input("Enter Url: ")
 expression = "incorrect"
 def brute(username,password):
